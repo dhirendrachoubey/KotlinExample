@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="$PROJECT_DIR$/../Android-Notepad-App-in-Mvvm-with-Room-Database-and-Kotlin-Coroutines/app/src/main/java/com/codingwithjks/notepad/ui/Model/Note.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
